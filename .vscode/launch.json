@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Aspire.SpaProxy.AppHost [Default Configuration]",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Aspire.SpaProxy.AppHost\\Aspire.SpaProxy.AppHost.csproj"
+        }
+    ]
+}
